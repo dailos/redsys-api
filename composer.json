@@ -1,0 +1,22 @@
+{
+  "name": "dailos/redsys-api",
+  "description": "RedsysAPI private package",
+  "type": "package",
+  "require": {
+    "php": ">=7.4.0"
+  },
+  "license": "mit",
+  "authors": [
+    {
+      "name": "Dailos Marrero Diaz",
+      "email": "dailos@gmail.com",
+      "homepage": "https://github.com/dailos/"
+    }
+  ],
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "Dailos\\RedsysAPI\\": "src/"
+    }
+  }
+}
