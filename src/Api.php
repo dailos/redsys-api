@@ -23,7 +23,7 @@ namespace Dailos\RedsysAPI;
 * Redsys Servicios de Procesamiento, S.L., CIF B85955367
 */
 
-class RedsysAPI{
+class Api{
 
 	/******  Array de DatosEntrada ******/
     var $vars_pay = array();
